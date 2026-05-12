@@ -119,14 +119,15 @@
 <img src="https://streak-stats.demolab.com?user=shockdayo&theme=tokyonight&hide_border=true" />
 
 ---
+# 🏅 Achievements
 
-# 🏆 Achievements
+- 🥉 Secured 3rd Prize at InEx
 
-<div align="center">
+- 🧠 Participated in Smart India Hackathon
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=YOUR_THEME&no-frame=true&row=1&column=7" />
+- 🤖 Participated in Xtreme Hackathon
 
-</div>
+- 📚 Won two Literature Club events at college
 
 ---
 
