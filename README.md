@@ -21,8 +21,23 @@
 ---
 
 # 🌌 About Me
+# 🌌 About Me
 
-🛠️ Full Stack Development • 🌐 Open Source • 🤖 AI & Automation • ☁️ Cloud & DevOps • 🎨 UI/UX • 🎮 Anime & Gaming
+💻 Passionate Full Stack Developer focused on building modern, scalable, and user-friendly applications.
+
+🚀 Interested in Open Source, Artificial Intelligence, DevOps, and emerging technologies.
+
+🌱 Currently learning System Design, Cloud Computing, and advanced backend development.
+
+⚡ Love transforming ideas into real-world projects while exploring new tools and frameworks.
+
+🤝 Always excited to collaborate, contribute to open source, and learn from the developer community.
+
+🔥 Consistently improving problem-solving skills and writing cleaner, more efficient code.
+
+🎯 Working towards becoming a skilled software engineer capable of building impactful products at scale.
+
+🎮 Interests include Anime, Gaming, Music, UI/UX Design, and late-night coding sessions.
 
 </div>
 
