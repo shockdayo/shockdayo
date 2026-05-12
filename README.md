@@ -87,7 +87,6 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
