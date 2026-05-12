@@ -25,15 +25,7 @@
 ---
 
 # ⚡ Tech Stack
-I'm a B.Tech student passionate about technology, problem solving, and continuous learning.  
-I’m especially interested in Artificial Intelligence, Cybersecurity, and Software Development.
 
-💻 I enjoy building projects, exploring new technologies, and improving my programming skills every day.  
-🧠 Currently learning more about AI/ML, ethical hacking, network security, and modern development tools.  
-🔐 Interested in understanding how systems work, how security vulnerabilities happen, and how to build secure applications.  
-🚀 I like turning ideas into real-world projects and experimenting with different tech stacks.  
-📚 Always curious about emerging technologies and how they can solve real problems.  
-⚡ Exploring open-source projects and improving my GitHub profile one project at a time.
 <div align="center">
 
 ## 🚀 Languages
