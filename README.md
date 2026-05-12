@@ -38,34 +38,21 @@
 
 # ⚡ Tech Stack
 
+- 🐧 Experienced with Linux environments including Arch Linux, Kali Linux, and Linux Mint along with terminal-based workflows and system customization
 
-<div align="left">
+- 📱 Advanced Android customization and device optimization including bootloader unlocking, custom ROM flashing, firmware management, and TWRP recovery environments
 
-🐧 Experienced with Linux environments and distribution management including Arch Linux, Kali Linux, and Linux Mint, with familiarity in system setup, package management, configuration, and terminal-based workflows.
+- ⚡ Familiar with kernel tweaking, thermal throttle optimization, refresh rate tuning, input latency improvements, and overall device performance optimization workflows
 
-📱 Advanced Android Customization & Modding Experience involving bootloader unlocking, rooted environments, custom ROM flashing, firmware management, and low-level device optimization.
+- 🔐 Worked with hashing, cryptography concepts, OTP authentication systems, and security-oriented Python workflows using libraries such as cryptography and pyotp
 
-🛠️ Hands-on experience operating custom recoveries such as TWRP for partition management, ROM installation, backup handling, and recovery-based system maintenance.
+- 🤖 Exploring AI-powered workflows, Ollama, AI APIs, automation concepts, and AI-assisted development environments
 
-⚡ Worked on kernel-level and system-level performance optimization including thermal throttle profile tuning, refresh rate overclocking, battery optimization, and device stability adjustments.
+- 🧠 Currently learning machine learning fundamentals including NumPy, pandas, and scikit-learn for AI and data analysis applications
 
-🎮 Focused on mobile gaming optimization through input latency reduction, touch response improvements, gyro sensitivity tuning, and performance balancing for smoother gameplay experiences.
+- 🛠️ Comfortable working with Git, GitHub, VS Code, frontend/backend concepts, and rapid prototyping workflows during projects and hackathons
 
-🔋 Familiar with charging behavior optimization, power delivery tuning, and device efficiency improvements for better thermal and battery performance.
-
-🎧 Explored Android audio engine modifications and system configuration adjustments to enhance sound processing and overall multimedia experience.
-
-📲 Worked extensively with Beryllium-based devices and Android custom environments involving firmware flashing, Google package integration, and custom OS deployments.
-
-💻 Strong interest in operating systems, low-level customization, system optimization, and performance engineering across both Linux and Android ecosystems.
-
-🚀 Passionate about experimenting with emerging technologies, advanced device customization, and continuously learning more about system architecture and software optimization.
-
-🤖 Familiar with working with AI-powered APIs and developer platforms including Gemini, ChatGPT, and Grok for experimentation, automation, and integrating AI-assisted functionalities into projects and workflows.
-
-🔑 Comfortable handling API-based integrations, authentication keys, request handling, and configuring external AI services within development environments.
-
-</div>
+- 🚀 Strong interest in Artificial Intelligence, Cybersecurity, Linux systems, system optimization, and AI-driven security technologies
 
 
 ## 🚀 Languages
