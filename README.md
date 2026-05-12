@@ -67,6 +67,10 @@
 
 🚀 Passionate about experimenting with emerging technologies, advanced device customization, and continuously learning more about system architecture and software optimization.
 
+🤖 Familiar with working with AI-powered APIs and developer platforms including Gemini, ChatGPT, and Grok for experimentation, automation, and integrating AI-assisted functionalities into projects and workflows.
+
+🔑 Comfortable handling API-based integrations, authentication keys, request handling, and configuring external AI services within development environments.
+
 </div>
 
 
