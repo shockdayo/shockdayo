@@ -50,6 +50,14 @@ PYTHON
 
 ## 🚀 Languages
 
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=c,python" />
+
+</div>
+
+## 🚀 Languages
+
 <img src="https://skillicons.dev/icons?i=YOUR_LANGUAGES" />
 
 <br><br>
