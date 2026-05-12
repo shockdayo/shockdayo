@@ -76,7 +76,11 @@
 
 ## 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=YOUR_LANGUAGES" />
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c" />
+
+</div>
 
 <br><br>
 
