@@ -45,8 +45,31 @@
 # ⚡ Tech Stack
 
 <div align="center">
-C
-PYTHON
+# ⚡ Tech Stack & Technical Experience
+
+<div align="left">
+
+🐧 Experienced with Linux environments and distribution management including Arch Linux, Kali Linux, and Linux Mint, with familiarity in system setup, package management, configuration, and terminal-based workflows.
+
+📱 Advanced Android Customization & Modding Experience involving bootloader unlocking, rooted environments, custom ROM flashing, firmware management, and low-level device optimization.
+
+🛠️ Hands-on experience operating custom recoveries such as TWRP for partition management, ROM installation, backup handling, and recovery-based system maintenance.
+
+⚡ Worked on kernel-level and system-level performance optimization including thermal throttle profile tuning, refresh rate overclocking, battery optimization, and device stability adjustments.
+
+🎮 Focused on mobile gaming optimization through input latency reduction, touch response improvements, gyro sensitivity tuning, and performance balancing for smoother gameplay experiences.
+
+🔋 Familiar with charging behavior optimization, power delivery tuning, and device efficiency improvements for better thermal and battery performance.
+
+🎧 Explored Android audio engine modifications and system configuration adjustments to enhance sound processing and overall multimedia experience.
+
+📲 Worked extensively with Beryllium-based devices and Android custom environments involving firmware flashing, Google package integration, and custom OS deployments.
+
+💻 Strong interest in operating systems, low-level customization, system optimization, and performance engineering across both Linux and Android ecosystems.
+
+🚀 Passionate about experimenting with emerging technologies, advanced device customization, and continuously learning more about system architecture and software optimization.
+
+</div>
 
 
 ## 🚀 Languages
