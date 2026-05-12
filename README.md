@@ -20,7 +20,13 @@
 
 ---
 
+# 🌌 About Me
 
+- 👨‍💻 YOUR_DESCRIPTION_1
+- 🤖 YOUR_DESCRIPTION_2
+- 🌍 YOUR_DESCRIPTION_3
+- ⚡ YOUR_DESCRIPTION_4
+- 🎮 YOUR_DESCRIPTION_5
 
 ---
 
@@ -158,7 +164,7 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/shockdayo/shockdayo/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
