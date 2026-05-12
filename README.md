@@ -21,24 +21,6 @@
 ---
 
 # 🌌 About Me
-# 🌌 About Me
-
-<div align="center">
-
-💻 Passionate Full Stack Developer with a strong interest in building modern, scalable, and user-friendly applications that solve real-world problems.  
-🚀 Enthusiastic about Open Source, Artificial Intelligence, DevOps, Cloud Computing, and exploring emerging technologies.  
-🌱 Currently learning System Design, Backend Architecture, and improving my problem-solving skills through continuous practice and development.  
-⚡ I enjoy transforming creative ideas into functional projects while constantly experimenting with new tools, frameworks, and technologies.  
-🤝 Love collaborating with developers, contributing to open-source communities, and learning from people who are passionate about technology.  
-🔥 Focused on improving every day, writing cleaner code, and becoming a better developer through consistency and hands-on experience.  
-🎯 My goal is to create impactful software, contribute to meaningful projects, and grow into a skilled software engineer who can build products at scale.  
-🎮 Outside of coding, I enjoy anime, gaming, music, tech content, and spending hours debugging something that turned out to be a missing semicolon.  
-
-</div>
-
-<br>
-
-<div align="center">
 
 🛠️ Full Stack Development • 🌐 Open Source • 🤖 AI & Automation • ☁️ Cloud & DevOps • 🎨 UI/UX • 🎮 Anime & Gaming
 
