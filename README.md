@@ -44,8 +44,6 @@
 
 # ⚡ Tech Stack
 
-<div align="center">
-# ⚡ Tech Stack & Technical Experience
 
 <div align="left">
 
