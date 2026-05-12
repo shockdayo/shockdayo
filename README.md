@@ -21,7 +21,6 @@
 ---
 
 # 🌌 About Me
-# 🌌 About Me
 
 💻 Passionate Full Stack Developer focused on building modern, scalable, and user-friendly applications.
 
