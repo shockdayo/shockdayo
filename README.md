@@ -85,40 +85,30 @@
 - ⚡ Performed device-level performance optimization, kernel configuration adjustments, and system tuning workflows
 - 🔍 Familiar with authentication mechanisms, credential security concepts, and secure workflow practices
 - 🤖 Exploring AI-driven cybersecurity concepts, security automation, and intelligent threat analysis systems
-  
-# 🏆 Hackathon Experience
 
-## 🧠 Smart India Hackathon — Mental Health Support Prototype
+   # 🏆 Hackathon Experience
 
-- Participated in the development of a mental health support application concept designed for children living in rural areas of Jammu & Kashmir
+## 🧠 Smart India Hackathon
 
-- Worked on an early-stage prototype focused on providing basic emotional support interactions through keyword detection and predefined response logic
+- Worked on a mental health support prototype for children living in rural areas of Jammu & Kashmir
 
-- Explored the idea of creating an accessible and easy-to-use platform aimed at improving emotional support accessibility in underserved areas
+- Built an early-stage system using keyword detection and predefined emotional support responses
 
-- Collaborated in a fast-paced team environment involving brainstorming, rapid prototyping, testing, and iterative feature development during the hackathon process
-
-- Gained practical exposure to teamwork, UI planning, workflow structuring, and project coordination within a competitive development environment
+- Collaborated in rapid prototyping, feature planning, and team-based development workflows
 
 <br>
 
-## 🤖 Xtreme Hackathon — AI-Assisted Mental Health Application
+## 🤖 Xtreme Hackathon
 
-- Contributed to the development of a more advanced AI-powered mental health support application integrating locally hosted AI interactions using Ollama
+- Worked on an AI-assisted mental health application using locally hosted Ollama AI
 
-- Worked on frontend customization including UI layout design, color theme selection, and improving the overall visual accessibility and user experience of the application
+- Contributed to UI design, color themes, and a basic authentication/login system
 
-- Developed a basic authentication system with pre-configured login credentials for controlled user access and application testing workflows
+- Implemented safety-focused trigger word detection to restrict harmful AI conversations
 
-- Implemented safety-focused functionality designed to detect trigger words and potentially harmful or suicidal tendencies, automatically restricting AI conversations when necessary
+- Helped develop an emotion-based interaction system for adaptive AI responses
 
-- Helped integrate an emotion-wheel-based interaction system where AI responses adapted dynamically based on the emotional state selected by the user
-
-- Explored AI-assisted development workflows, frontend/backend integration concepts, and practical experimentation with locally hosted AI systems during rapid project development
-
-- Collaborated in a team-oriented environment involving feature implementation, testing, debugging, UI improvements, and iterative development under hackathon time constraints
-
-- Tools & Technologies Used: Ollama, VS Code, AI-assisted development workflows, frontend/backend integration concepts
+- Tools & Technologies: Ollama, VS Code, AI-assisted workflows
 
 # 📊 GitHub Analytics
 
