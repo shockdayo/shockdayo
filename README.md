@@ -104,12 +104,28 @@
 - ⚡ Performed device-level performance optimization, kernel configuration adjustments, and system tuning workflows
 - 🔍 Familiar with authentication mechanisms, credential security concepts, and secure workflow practices
 - 🤖 Exploring AI-driven cybersecurity concepts, security automation, and intelligent threat analysis systems
+  
+# 🏆 Hackathon Experience
 
-## ☁️ DevOps & Tools
+## 🧠 Smart India Hackathon — AI-Powered Mental Health Application
 
-<img src="https://skillicons.dev/icons?i=YOUR_DEVOPS_TOOLS" />
+- Developed an AI-assisted mental health support application aimed at helping children living in rural areas of Jammu & Kashmir
 
-</div>
+- The initial prototype used keyword detection and predefined response systems to provide basic emotional support interactions
+
+- Later evolved into a more advanced prototype with a complete frontend and backend implementation integrated with local AI processing using Ollama
+
+- Implemented an emotion wheel system where AI responses adapted dynamically based on the emotional state selected by the user
+
+- Worked on safety-focused features designed to detect trigger words and potentially harmful or suicidal tendencies, automatically restricting AI interaction when necessary
+
+- Contributed to UI/UX design including application theme, color palette selection, and interface customization for a more accessible user experience
+
+- Developed a basic authentication system with pre-configured login credentials for controlled application access
+
+- Collaborated in a team-based hackathon environment involving rapid prototyping, feature development, and AI-assisted workflows
+
+- Tools & Technologies: Ollama, VS Code, AI-assisted development workflows, frontend/backend integration concepts
 
 ---
 
