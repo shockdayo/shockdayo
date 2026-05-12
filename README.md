@@ -22,21 +22,21 @@
 
 # 🌌 About Me
 
-💻 Passionate Full Stack Developer focused on building modern, scalable, and user-friendly applications.
+💻 Developer and tech enthusiast with a strong interest in Artificial Intelligence, Machine Learning, Cybersecurity, and AI-driven security systems.
 
-🚀 Interested in Open Source, Artificial Intelligence, DevOps, and emerging technologies.
+🤖 Passionate about exploring how AI can be integrated with cybersecurity for smarter automation, threat detection, and system analysis.
 
-🌱 Currently learning System Design, Cloud Computing, and advanced backend development.
+🐧 Experienced with Linux environments including Arch Linux, Kali Linux, and Linux Mint, along with system configuration and customization workflows.
 
-⚡ Love transforming ideas into real-world projects while exploring new tools and frameworks.
+📱 Previously worked extensively with Android customization and low-level device optimization including custom ROMs, kernel tweaking, bootloader unlocking, and performance tuning.
 
-🤝 Always excited to collaborate, contribute to open source, and learn from the developer community.
+🔐 Interested in ethical hacking, security research, system optimization, and learning modern cybersecurity concepts and tools.
 
-🔥 Consistently improving problem-solving skills and writing cleaner, more efficient code.
+⚡ Continuously exploring programming, APIs, AI tools, and emerging technologies through experimentation and hands-on learning.
 
-🎯 Working towards becoming a skilled software engineer capable of building impactful products at scale.
+🤝 Always excited to collaborate, contribute to open source, and improve technical skills by building and exploring new ideas.
 
-🎮 Interests include Anime, Gaming, Music, UI/UX Design, and late-night coding sessions.
+🎮 Interests include Anime, Gaming, Linux customization, AI technology, and experimenting with advanced tech workflows.
 
 </div>
 
