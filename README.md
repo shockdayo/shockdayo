@@ -45,6 +45,8 @@
 # ⚡ Tech Stack
 
 <div align="center">
+C
+PYTHON
 
 ## 🚀 Languages
 
