@@ -48,13 +48,6 @@
 C
 PYTHON
 
-## 🚀 Languages
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=c,python" />
-
-</div>
 
 ## 🚀 Languages
 
