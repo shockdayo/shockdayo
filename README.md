@@ -112,19 +112,19 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=YOUR_THEME&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shockdayo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=YOUR_THEME&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shockdayo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=YOUR_THEME&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=shockdayo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
