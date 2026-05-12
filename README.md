@@ -86,7 +86,7 @@
 - 🔍 Familiar with authentication mechanisms, credential security concepts, and secure workflow practices
 - 🤖 Exploring AI-driven cybersecurity concepts, security automation, and intelligent threat analysis systems
 
-   # 🏆 Hackathon Experience
+# 🏆 Hackathon Experience
 
 ## 🧠 Smart India Hackathon
 
