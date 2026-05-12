@@ -107,27 +107,37 @@
   
 # 🏆 Hackathon Experience
 
-## 🧠 Smart India Hackathon — AI-Powered Mental Health Application
+## 🧠 Smart India Hackathon — Mental Health Support Prototype
 
-- Developed an AI-assisted mental health support application aimed at helping children living in rural areas of Jammu & Kashmir
+- Participated in the development of a mental health support application concept designed for children living in rural areas of Jammu & Kashmir
 
-- The initial prototype used keyword detection and predefined response systems to provide basic emotional support interactions
+- Worked on an early-stage prototype focused on providing basic emotional support interactions through keyword detection and predefined response logic
 
-- Later evolved into a more advanced prototype with a complete frontend and backend implementation integrated with local AI processing using Ollama
+- Explored the idea of creating an accessible and easy-to-use platform aimed at improving emotional support accessibility in underserved areas
 
-- Implemented an emotion wheel system where AI responses adapted dynamically based on the emotional state selected by the user
+- Collaborated in a fast-paced team environment involving brainstorming, rapid prototyping, testing, and iterative feature development during the hackathon process
 
-- Worked on safety-focused features designed to detect trigger words and potentially harmful or suicidal tendencies, automatically restricting AI interaction when necessary
+- Gained practical exposure to teamwork, UI planning, workflow structuring, and project coordination within a competitive development environment
 
-- Contributed to UI/UX design including application theme, color palette selection, and interface customization for a more accessible user experience
+<br>
 
-- Developed a basic authentication system with pre-configured login credentials for controlled application access
+## 🤖 Xtreme Hackathon — AI-Assisted Mental Health Application
 
-- Collaborated in a team-based hackathon environment involving rapid prototyping, feature development, and AI-assisted workflows
+- Contributed to the development of a more advanced AI-powered mental health support application integrating locally hosted AI interactions using Ollama
 
-- Tools & Technologies: Ollama, VS Code, AI-assisted development workflows, frontend/backend integration concepts
+- Worked on frontend customization including UI layout design, color theme selection, and improving the overall visual accessibility and user experience of the application
 
----
+- Developed a basic authentication system with pre-configured login credentials for controlled user access and application testing workflows
+
+- Implemented safety-focused functionality designed to detect trigger words and potentially harmful or suicidal tendencies, automatically restricting AI conversations when necessary
+
+- Helped integrate an emotion-wheel-based interaction system where AI responses adapted dynamically based on the emotional state selected by the user
+
+- Explored AI-assisted development workflows, frontend/backend integration concepts, and practical experimentation with locally hosted AI systems during rapid project development
+
+- Collaborated in a team-oriented environment involving feature implementation, testing, debugging, UI improvements, and iterative development under hackathon time constraints
+
+- Tools & Technologies Used: Ollama, VS Code, AI-assisted development workflows, frontend/backend integration concepts
 
 # 📊 GitHub Analytics
 
