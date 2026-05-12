@@ -2,7 +2,7 @@
 
 # ⚔️ HEY THERE, I'M YOUR_NAME ⚔️
 
-<img src="PASTE_YOUR_ANIME_GIF_URL_HERE" width="850"/>
+<img src="PASTE_YOUR_ANIME_GIF_URL_HERE" width="650"/>
 
 <br><br>
 
