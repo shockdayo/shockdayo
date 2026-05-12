@@ -98,7 +98,7 @@
 
 <br>
 
-## 🤖 Xtreme Hackathon
+## 🤖 SNIST Xtreme Hackathon
 
 - Worked on an AI-assisted mental health application using locally hosted Ollama AI
 
