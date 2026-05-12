@@ -1,74 +1,78 @@
-🚀 GitHub Profile README Template
+🔥 Ultra Awesome GitHub Profile README
 <div align="center">
 
-# Hey there 👋 I'm YOUR_NAME
+# ⚔️ HEY THERE, I'M YOUR_NAME ⚔️
 
-### Full Stack Developer • Open Source Builder • AI Enthusiast
-
-<!-- ===================================================== -->
-<!-- 🖼️ ANIME GIF SPACE - REPLACE THE LINK BELOW           -->
-<!-- ===================================================== -->
-
-<img src="PASTE_YOUR_ANIME_GIF_HERE" width="700" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Open+Source+Enthusiast;Anime+Lover;Building+Cool+Stuff+24%2F7;Welcome+To+My+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+cool+projects;Open+Source+Contributor;Learning+something+new+everyday;Welcome+to+my+GitHub!&center=true&width=700&height=45)](https://git.io/typing-svg)
+<!-- ====================================================== -->
+<!-- 🌸 PUT YOUR ANIME GIF HERE                             -->
+<!-- Replace the link below with your favorite anime GIF    -->
+<!-- ====================================================== -->
+
+<img src="PASTE_YOUR_ANIME_GIF_HERE" width="850" />
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blueviolet" />
+
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=purple" />
 
 </div>
 
 ---
 
-# 🌌 About Me
+# 🌌 ABOUT ME
 
 ```yaml
-Name: YOUR_NAME
-Location: Earth 🌍
-Focus: Web Development / AI / Open Source
-Currently Learning:
-  - Cloud Computing
-  - System Design
-  - AI Agents
-Hobbies:
-  - Coding
-  - Gaming
-  - Anime
-  - Building Side Projects
+name: YOUR_NAME
+located_in: Earth 🌍
+current_job: Student / Developer
+education:
+  ["Self-Taught Developer", "Open Source Learner"]
 
-⚡ Tech Stack
+fields_of_interests:
+  [
+    "Web Development",
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Cloud Computing",
+    "Automation"
+  ]
 
+currently_learning: ["System Design", "DevOps", "AI Agents"]
+2026_goals: ["Build Amazing Projects", "Grow As Developer"]
+hobbies: ["Anime", "Gaming", "Coding", "Music"]
 
+⚡ TECH STACK
+🚀 Languages
+🌐 Frontend
+⚙️ Backend & Database
+☁️ DevOps & Tools
+📊 GITHUB ANALYTICS
+🐍 CONTRIBUTION SNAKE
 
+🚀 FEATURED PROJECTS
+🎯 CURRENT MISSION
+⚡ Building insane projects
+⚡ Grinding LeetCode
+⚡ Exploring AI & automation
+⚡ Learning scalable backend systems
+⚡ Becoming a better developer everyday
 
+🏆 ACHIEVEMENTS
+🌐 CONNECT WITH ME
+☕ SUPPORT ME
+🎵 NOW PLAYING
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
-
-
-
-
-
-📊 GitHub Stats
-🔥 GitHub Streak
-🐍 Contribution Snake
-
-🚧 Current Projects
-🚀 Building awesome web apps
-🤖 Exploring AI & automation
-🌐 Contributing to open source
-📚 Learning advanced backend systems
-🎯 Goals for This Year
-Contribute to major open-source projects
-Build a SaaS application
-Learn advanced DevOps
-Improve system design skills
-Stay consistent with coding
-🌐 Connect With Me
-☕ Random Dev Quote
-
-🎵 Optional Spotify Section
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-⚙️ GitHub Actions Workflow For Snake Animation
+⚙️ GITHUB ACTIONS WORKFLOW
 Create this file:
 .github/workflows/snake.yml
 name: Generate Snake
@@ -88,7 +92,7 @@ jobs:
         with:
           github_user_name: YOUR_GITHUB_USERNAME
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -97,23 +101,34 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-✨ Best Anime GIF Sources
-https://giphy.com
-https://tenor.com
-https://wall.alphacoders.com
-https://imgur.com
-💡 Tips
-Keep only ONE large GIF at the top
-Use a dark theme consistently
-Avoid adding too many badges
-Keep spacing clean
-Update your current projects often
-Add demo GIFs for your best repos
-🛠️ Setup Instructions
-Create a repo with your GitHub username.
-Add this README.md.
+🌸 BEST ANIME GIF IDEAS
+Cyberpunk anime loop
+Naruto/Sasuke fight GIF
+Gojo Satoru edit
+Luffy Gear 5 animation
+Retro anime city aesthetic
+Coding anime room GIF
+Neon Tokyo GIF
+✨ FINAL TOUCHES
+Recommended Theme
+Tokyonight
+Catppuccin
+Dracula
+Synthwave
+Tips
+Keep your profile balanced
+Use only ONE main GIF
+Showcase real projects
+Add project demo videos
+Keep sections clean
+Update monthly
+🛠️ HOW TO USE
+Create a repository with your GitHub username.
+Name it exactly as your username.
+Create a README.md file.
+Paste this template.
 Replace all placeholders.
 Add your anime GIF.
 Push changes.
-Enjoy your new GitHub profile 🚀
+Enjoy your legendary GitHub profile 🔥
 
