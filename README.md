@@ -164,7 +164,7 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/shockdayo/shockdayo/output/github-contribution-grid-snake.svg)
 
 ---
 
