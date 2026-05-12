@@ -22,23 +22,17 @@
 
 # 🌌 About Me
 
-💻 Developer and tech enthusiast with a strong interest in Artificial Intelligence, Machine Learning, Cybersecurity, and AI-driven security systems.
+💻 Developer and tech enthusiast interested in Artificial Intelligence, Machine Learning, Cybersecurity, and AI-driven security systems.
 
-🤖 Passionate about exploring how AI can be integrated with cybersecurity for smarter automation, threat detection, and system analysis.
+🐧 Experienced with Linux environments, Android customization, system optimization, and low-level device workflows.
 
-🐧 Experienced with Linux environments including Arch Linux, Kali Linux, and Linux Mint, along with system configuration and customization workflows.
+🤖 Exploring AI tools, APIs, automation, and practical machine learning concepts through projects and experimentation.
 
-📱 Previously worked extensively with Android customization and low-level device optimization including custom ROMs, kernel tweaking, bootloader unlocking, and performance tuning.
+🔐 Interested in cybersecurity, authentication systems, and intelligent security automation.
 
-🔐 Interested in ethical hacking, security research, system optimization, and learning modern cybersecurity concepts and tools.
-
-⚡ Continuously exploring programming, APIs, AI tools, and emerging technologies through experimentation and hands-on learning.
-
-🤝 Always excited to collaborate, contribute to open source, and improve technical skills by building and exploring new ideas.
+🚀 Passionate about learning new technologies, building projects, and improving technical skills through hands-on development.
 
 🎮 Interests include Anime, Gaming, Linux customization, AI technology, and experimenting with advanced tech workflows.
-
-</div>
 
 ---
 
