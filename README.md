@@ -38,19 +38,17 @@
 
 # ⚡ Tech Stack
 
-- 🐧 Linux • Arch Linux • Kali Linux • Linux Mint
+<div align="left">
 
-- 📱 Android Customization • Bootloader Unlocking • Custom ROMs • TWRP
+🔹 Linux • Arch Linux • Kali Linux • Linux Mint  
+🔹 Android Customization • Custom ROMs • TWRP  
+🔹 Kernel Tweaking • Performance Optimization  
+🔹 Cryptography • Hashing • OTP Authentication  
+🔹 Ollama • AI APIs • AI Workflows  
+🔹 NumPy • pandas • scikit-learn  
+🔹 Git • GitHub • VS Code  
 
-- ⚡ Kernel Tweaking • Performance Optimization • Thermal Tuning
-
-- 🔐 Cryptography • Hashing • OTP Authentication • pyotp
-
-- 🤖 Ollama • AI APIs • AI-Assisted Workflows
-
-- 🧠 NumPy • pandas • scikit-learn
-
-- 🛠️ Git • GitHub • VS Code
+</div>
 
 
 ## 🚀 Languages
