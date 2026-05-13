@@ -7,6 +7,8 @@
 <br><br>
 
 
+<p align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=AI+%26+Cybersecurity+Enthusiast;Linux+%26+Android+Customization;Python+Developer;Building+AI-Assisted+Projects+🚀" />
 
 <br><br>
@@ -17,6 +19,7 @@
 
 <img src="https://img.shields.io/github/stars/shockdayo?style=for-the-badge&color=purple" />
 
+</p>
 ---
 
 # 🌌 About Me
