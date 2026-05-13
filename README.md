@@ -60,9 +60,7 @@
 </div>
 
 <br><br>
-# 🤖 AI / ML
 
-<div align="left">
 
 
 </div>
