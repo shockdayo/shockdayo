@@ -75,13 +75,16 @@
   
 # 🔐 Cybersecurity
 
-- 🔒 Worked with hashing, cryptography concepts, and OTP-based authentication systems using Python
-- 🛠️ Used security-related Python libraries including cryptography and pyotp in authentication and credential-handling projects
-- 📱 Experienced with Android system-level customization including bootloader unlocking, custom ROM flashing, firmware management, and recovery environments such as TWRP
-- ⚡ Performed device-level performance optimization, kernel configuration adjustments, and system tuning workflows
-- 🔍 Familiar with authentication mechanisms, credential security concepts, and secure workflow practices
-- 🤖 Exploring AI-driven cybersecurity concepts, security automation, and intelligent threat analysis systems
+- 🔒 Hashing • OTP Authentication • Credential Security
 
+- 🛠️ cryptography • pyotp • Security-Oriented Python Workflows
+
+- 📱 Android System Customization • Bootloader Unlocking • TWRP
+
+- ⚡ Performance Optimization • Kernel Tuning • System Configuration
+
+- 🤖 AI-Driven Cybersecurity • Security Automation
+  
 # 🏆 Hackathon Experience
 
 ## 🧠 Smart India Hackathon
