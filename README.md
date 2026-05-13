@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ HEY THERE, I'M YOUR_NAME ⚔️
+# ⚔️ HEY THERE, I'M AYUSHMANN ⚔️
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlqMG9odnNhczlsZDd6ZWQyMzN4ZHA5b290MDB2dnhiZTczdWZqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" width="750"/>
 
