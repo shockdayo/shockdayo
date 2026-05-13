@@ -125,13 +125,13 @@
 ---
 # 🏅 Achievements
 
-- 🥉 Secured 3rd Prize at InEx
+- 🥉 Bronze Medalist at InEx Expo held at Don Bosco, Goa for an AI-assisted mental health application
 
-- 🧠 Participated in Smart India Hackathon
+- 🧠 Participant — Smart India Hackathon
 
-- 🤖 Participated in Xtreme Hackathon
+- 🤖 Participant — Xtreme Hackathon
 
-- 📚 Won two Literature Club events at college
+- 📚 Winner of two Literature Club events at college
 
 ---
 
