@@ -6,6 +6,16 @@
 
 <br><br>
 
+<img align="right" alt="Coding" width="320" src="YOUR_GIF_LINK">
+
+# 🌌 About Me
+
+your about me text...
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=AI+%26+Cybersecurity+Enthusiast;Linux+%26+Android+Customization;Python+Developer;Building+AI-Assisted+Projects)](https://git.io/typing-svg)
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=YOUR_TEXT_1;YOUR_TEXT_2;YOUR_TEXT_3;Welcome+To+My+GitHub+Profile+🚀" />
 
 <br><br>
