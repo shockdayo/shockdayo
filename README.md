@@ -165,13 +165,17 @@ Simple Python-based number guessing game created while learning programming fund
 
 ---
 
-# 🎯 Current Mission
+# 🎯 Goals
 
-- ⚡ YOUR_GOAL_1
-- 🤖 YOUR_GOAL_2
-- 🚀 YOUR_GOAL_3
-- 📚 YOUR_GOAL_4
-- 🔥 YOUR_GOAL_5
+- 🤖 Strengthen skills in Artificial Intelligence, Machine Learning, and AI-driven cybersecurity
+
+- 🔐 Build practical cybersecurity and intelligent security analysis projects
+
+- 🐍 Improve Python development and problem-solving abilities through hands-on projects
+
+- 🚀 Contribute to open source projects and collaborative developer communities
+
+- 📚 Continuously learn new technologies, tools, and modern development workflows
 
 ---
 
