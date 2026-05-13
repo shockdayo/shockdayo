@@ -135,8 +135,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
 <div align="center">
 
 # 📌 Projects
