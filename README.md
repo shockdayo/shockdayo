@@ -67,10 +67,15 @@
 
 </div>
 
-- 📚 Currently learning NumPy, pandas, and scikit-learn for machine learning and data analysis fundamentals
-- 🤖 Exploring AI concepts, APIs, and practical ML workflows
-- ⚡ Interested in AI-driven cybersecurity and intelligent automation systems
-- 🚀 Exploring the use of AI tools and APIs in projects, automation workflows, and intelligent applications
+# 🤖 AI / ML
+
+- 📚 Learning NumPy, pandas, and scikit-learn
+
+- 🤖 Exploring AI tools, local AI models, and practical ML workflows
+
+- ⚡ Interested in AI-powered cybersecurity and intelligent automation
+
+- 🚀 Experimenting with AI-assisted applications and automation concepts
 
   
 # 🔐 Cybersecurity
