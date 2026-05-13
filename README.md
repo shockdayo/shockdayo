@@ -38,21 +38,19 @@
 
 # ⚡ Tech Stack
 
-- 🐧 Experienced with Linux environments including Arch Linux, Kali Linux, and Linux Mint along with terminal-based workflows and system customization
+- 🐧 Linux • Arch Linux • Kali Linux • Linux Mint
 
-- 📱 Advanced Android customization and device optimization including bootloader unlocking, custom ROM flashing, firmware management, and TWRP recovery environments
+- 📱 Android Customization • Bootloader Unlocking • Custom ROMs • TWRP
 
-- ⚡ Familiar with kernel tweaking, thermal throttle optimization, refresh rate tuning, input latency improvements, and overall device performance optimization workflows
+- ⚡ Kernel Tweaking • Performance Optimization • Thermal Tuning
 
-- 🔐 Worked with hashing, cryptography concepts, OTP authentication systems, and security-oriented Python workflows using libraries such as cryptography and pyotp
+- 🔐 Cryptography • Hashing • OTP Authentication • pyotp
 
-- 🤖 Exploring AI-powered workflows, Ollama, AI APIs, automation concepts, and AI-assisted development environments
+- 🤖 Ollama • AI APIs • AI-Assisted Workflows
 
-- 🧠 Currently learning machine learning fundamentals including NumPy, pandas, and scikit-learn for AI and data analysis applications
+- 🧠 NumPy • pandas • scikit-learn
 
-- 🛠️ Comfortable working with Git, GitHub, VS Code, frontend/backend concepts, and rapid prototyping workflows during projects and hackathons
-
-- 🚀 Strong interest in Artificial Intelligence, Cybersecurity, Linux systems, system optimization, and AI-driven security technologies
+- 🛠️ Git • GitHub • VS Code
 
 
 ## 🚀 Languages
