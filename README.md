@@ -215,13 +215,6 @@ Simple Python-based number guessing game created while learning programming fund
 
 ---
 
-# 🎵 Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
 
 ---
 
@@ -230,65 +223,3 @@ Simple Python-based number guessing game created while learning programming fund
 ![snake gif](https://raw.githubusercontent.com/shockdayo/shockdayo/output/github-contribution-grid-snake.svg)
 ---
 
-# ⚙️ Snake Workflow Setup
-
-Create this file:
-
-.github/workflows/snake.yml
-
-Then paste this:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
----
-
-# 🎨 THEMES YOU CAN USE
-
-- tokyonight
-- radical
-- dracula
-- synthwave
-- github_dark
-- nightowl
-- catppuccin_mocha
-
----
-
-# 🛠️ QUICK SETUP
-
-Replace everything that says:
-
-- YOUR_NAME
-- YOUR_GITHUB_USERNAME
-- YOUR_THEME
-- YOUR_PROJECT_1
-- YOUR_PROJECT_2
-- YOUR_GOALS
-- YOUR_GIF
-- YOUR_SOCIALS
-
-Then commit changes 🚀
