@@ -139,14 +139,30 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&theme=YOUR_THEME&hide_border=true" />
-</a>
+# 📌 Projects
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=YOUR_THEME&hide_border=true" />
-</a>
+## 🔐 Password Manager
+Python-based learning project exploring hashing, OTP authentication, and credential security concepts using libraries such as cryptography and pyotp.
 
+<br>
+
+## 🤖 AI Mental Health Application
+Worked on AI-assisted mental health application prototypes during hackathons using Ollama, emotion-based interaction concepts, and safety-focused trigger detection systems.
+
+<br>
+
+## 🎌 Anime Web Application
+Experimental anime-focused web application featuring categorized anime sections, anime guessing functionality, and AI chatbot integration experimentation.
+
+<br>
+
+## 🛡️ AI-Based NIDS System
+Currently working on an AI-assisted Network Intrusion Detection System (NIDS) focused on cybersecurity monitoring, threat detection, and intelligent security analysis concepts.
+
+<br>
+
+## 🎲 Number Guesser Game
+Simple Python-based number guessing game created while learning programming fundamentals and logic-building concepts.
 </div>
 
 ---
