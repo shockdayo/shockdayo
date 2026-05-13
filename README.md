@@ -10,11 +10,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shockdayo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/shockdayo?style=for-the-badge&color=blueviolet" />
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=purple" />
+<img src="https://img.shields.io/github/stars/shockdayo?style=for-the-badge&color=purple" />
 
 </div>
 
