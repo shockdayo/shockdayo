@@ -6,7 +6,6 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="320" src="YOUR_GIF_LINK">
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=YOUR_TEXT_1;YOUR_TEXT_2;YOUR_TEXT_3;Welcome+To+My+GitHub+Profile+🚀" />
