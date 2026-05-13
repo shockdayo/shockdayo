@@ -74,7 +74,7 @@
 - ⚡ Interested in AI-powered cybersecurity and intelligent automation
 
 - 🚀 Experimenting with AI-assisted applications and automation concepts
-
+<br>
   
 # 🔐 Cybersecurity
 
